@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Nassima AIT SADI</title>
+
+<link rel="stylesheet" href="style.css">
+
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700\&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+
+<header>
+
+<div class="container">
+
+<h1>Nassima AIT SADI</h1>
+
+<nav>
+
+<a href="index.html">Home</a>
+<a href="publications.html">Publications</a>
+<a href="teaching.html">Teaching</a>
+<a href="contact.html">Contact</a>
+<a href="conferences.html" class="active">Conferences</a>
+
+
+
+</nav>
+</div>
+
+</header>
+
+
+<!-- ABOUT -->
+
+<section id="about">
+
+<div class="container about">
+
+<div class="text">
+
+<h2>About Me</h2>
+
+<p>
+
+I am a PhD student in Mathematics at the university of Abderrahmane Mira, Béjaïa, where my research focuses on Cellular Automata, Symbolic Dynamics, Ergodic Theory, and Discrete Dynamical Systems.
+
+Alongside my research, I teach mathematics at Institution Sainte-Marie d'Antony in France. I am passionate about both research and teaching, and I enjoy sharing mathematical concepts with students while pursuing new developments in the theory of cellular automata.
+
+</p>
+
+<p>
+My current research interests include the correction of 3-colourings by cellular automata, the dynamical properties of cellular automata, and their applications to mathematical and real-world modelling. More generally, I am interested in symbolic dynamics, the topological dynamics and the ergodic theory of cellular automata. I welcome opportunities for research collaborations and the exploration of new research directions in these areas and related fields.
+
+
+
+
+
+</p>
+
+
+<p>
+You can download my complete <a href="CV.pdf" target="_blank"><strong>Curriculum Vitae (CV)</strong></a>.
+</p>
+
+
+
+<p>
+In 2025, I earned a Master's degree in Mathematical Modelling from Sorbonne University (formerly Pierre and Marie Curie University, Paris VI).
+</p>
+
+
+<hr>
+
+
+
+</div>
+
+<div class="photo">
+<img src="photo.jpeg" alt="Nassima AIT SADI">
+</div>
+
+</div>
+
+</section>
+
+<footer>
+
+<p>
+
+© 2026 Nassima AIT SADI
+
+</p>
+
+</footer>
+
+</body>
+
+</html>

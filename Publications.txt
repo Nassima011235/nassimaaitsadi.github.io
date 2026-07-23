@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Contact | Nassima AIT SADI</title>
+
+<link rel="stylesheet" href="style.css">
+
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+
+<header>
+
+<div class="container">
+
+<h1>Nassima AIT SADI</h1>
+
+<nav>
+
+<a href="index.html">Home</a>
+<a href="publications.html">Publications</a>
+<a href="teaching.html">Teaching</a>
+<a href="conferences.html" class="active">Conferences</a>
+<a href="contact.html" class="active">Contact</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<section class="page">
+
+<div class="container">
+
+
+
+
+
+<h2>Journal Articles</h2>
+
+
+<ul class="pub-list">
+
+
+
+<li>
+<strong>2026</strong><br>
+
+N. AIT SADI, R. CHEMLAL.<br>
+
+<b>On the Absence of Irrational Eigenvalues in Multidimensional Cellular Automata.</b><br>
+
+<i>International Journal of Modern Physics C.</i>
+
+<a href="https://www.worldscientific.com/doi/abs/10.1142/S0129183127501233" target="_blank">[DOI]</a>
+
+
+</li>
+
+
+
+<li>
+
+<strong>2024</strong><br>
+
+N. AIT SADI, R. CHEMLAL.<br>
+
+<b>Urban Modelling using Cellular Automata: The Case of Algiers.</b><br>
+
+<i>The Arab World Geographer.</i>
+
+<a href="https://awg.kglmeridian.com/view/journals/arwg/27/3-4/article-p331.xml" target="_blank">[DOI]</a>
+
+</li>
+
+</ul>
+
+
+
+
+<h2>Work in Progress</h2>
+
+
+<ul class="pub-list">
+
+<li>
+
+<b>The dynamics of a cellular automaton model of language shift in Algeria. Case of study : Béjaïa city.</b><br>
+
+Submitted.
+
+</li>
+
+</ul>
+
+
+<ul class="pub-list">
+
+<li>
+
+<b>A Cellular Automaton for Correcting Three-Colourings with Additional Symbols
+.</b><br>
+
+Article in preparation.
+
+</li>
+
+</ul>
+
+
+<h2>Research Reports</h2>
+
+
+
+<ul class="pub-list">
+
+<li>
+
+<strong>2025</strong><br>
+
+N. AIT SADI.<br>
+
+<b>Auto-correction par automates cellulaires.</b><br>
+
+<i>Master's Research Internship Report.</i><br>
+
+LORIA, Université de Lorraine (Nancy), conducted as part of the Master's Degree in Mathematical Modelling, Sorbonne University.<br>
+
+Supervisor: Nazim Fatès. 
+<a href="https://inria.hal.science/hal-05337714/" target="_blank">[DOI]</a>
+
+
+</li>
+
+
+<li>
+
+<strong>2021</strong><br>
+
+N. AIT SADI.<br>
+
+<b>Liens entre le cadre topologique et le cadre ergodique des systèmes dynamiques
+discrets.</b><br>
+
+<i>Master's Thesis in Mathematical Analysis, University of Abderrahmane Mira, Béjaïa, Algeria.</i><br>
+
+Supervisor: Pr. Rezki Chemlal.
+<a href="https://theses-algerie.com/2397525311103291/memoire-de-master/universite-abderrahmane-mira---bejaia/liens-entre-le-cadre-topologique-et-le-cadre-ergodique-des-syst%C3%A8mes-dynamiques-discrets" target="_blank">[DOI]</a>
+
+</li>
+
+
+</ul>
+</main>

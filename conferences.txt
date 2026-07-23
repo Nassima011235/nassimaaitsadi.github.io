@@ -1,0 +1,336 @@
+<html>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Conferences | Nassima AIT SADI</title>
+
+<link rel="stylesheet" href="style.css">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+
+<header>
+
+<div class="container">
+
+<h1>Nassima AIT SADI</h1>
+
+<nav>
+
+<a href="index.html">Home</a>
+<a href="publications.html">Publications</a>
+<a href="teaching.html">Teaching</a>
+<a href="conferences.html" class="active">Conferences</a>
+
+<a href="contact.html">Contact</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<section class="page">
+
+<div class="container">
+
+<h2>Conferences, Workshops and Schools</h2>
+
+<p>
+The following is a selection of conferences, workshops, seminars and research schools in which I have participated. </p>
+
+<hr class="intro-divider">
+
+<h3 class="section-title">Conference Presentations</h3>
+
+<hr class="section-divider">
+
+<div class="teaching-item">
+
+<div class="activity">
+
+<div class="activity-header">
+
+<h4>AUTOMATA 2025</h4>
+
+<span class="activity-date">
+30 June – 2 July 2025
+</span>
+
+</div>
+
+<p class="location">
+Lille, France
+</p>
+
+<p>
+<strong>Talk:</strong>
+<em>A Partial Cellular Automaton Solution for the Self-Stabilisation of 3-Colourings.</em>
+</p>
+
+</div>
+
+
+<div class="activity">
+
+<div class="activity-header">
+
+<h4>AUTOMATA 2024</h4>
+
+<span class="activity-date">
+22–24 July 2024
+</span>
+
+</div>
+
+<p class="location">
+Durham, United Kingdom
+</p>
+
+<p>
+<strong>Talk:</strong>
+<em>Coexistence of Equicontinuity Points and Irrational Eigenvalues for Higher-Dimensional Cellular Automata.</em>
+</p>
+
+</div>
+
+<div class="activity">
+
+<div class="activity-header">
+
+<h4>National Conference on Pure and Applied Mathematics</h4>
+
+<span class="activity-date">
+4 June 2023
+</span>
+
+</div>
+
+<p class="location">
+Mila, Algeria
+</p>
+
+<p>
+<strong>Talk:</strong>
+<em>Spectral Properties of Higher-Dimensional Cellular Automata.</em>
+</p>
+
+</div>
+
+
+<div class="activity">
+
+<div class="activity-header">
+
+<h4>Second Asian Symposium on Cellular Automata Technology</h4>
+
+<span class="activity-date">
+March 2023
+</span>
+
+</div>
+
+<p class="location">
+Online
+</p>
+
+<p>
+<strong>Talk:</strong>
+<em>The Rules L(p,q).</em>
+</p>
+
+</div>
+
+
+
+<h3 class="section-title">Workshops and Seminars</h3>
+
+<hr class="section-divider">
+
+<div class="activity">
+
+    <div class="activity-header">
+        <h4>Sym-Daf Seminar on Symbolic Dynamics</h4>
+        <span class="activity-date">2–7 November 2025</span>
+    </div>
+
+    <p class="location">Sfax, Tunisia</p>
+   <p>
+   <strong> Talk: </strong>
+   <em> The 3 Colouring Problem using Cellular Automata. </em>
+  <p>  
+</div>
+
+
+<div class="activity">
+
+    <div class="activity-header">
+        <h4>Workshop on Discrete Mathematics and Probability</h4>
+        <span class="activity-date">4–7 July 2022</span>
+    </div>
+
+    <p class="location">AIMS, Rwanda (Hybrid)</p>
+
+    <p>
+        <strong>Talk:</strong>
+        <em>Cellular Automata from the Perspective of Discrete Dynamical Systems.</em>
+    </p>
+
+</div>
+
+
+<div class="activity">
+
+    <div class="activity-header">
+        <h4>Algerian–Tunisian Workshop on Symbolic Dynamics</h4>
+        <span class="activity-date">26–30 June 2022</span>
+    </div>
+
+    <p class="location">University of Béjaïa, Algeria</p>
+
+    <p>
+        <strong>Talk:</strong>
+        <em>Cellular Automata from the Perspective of Discrete Dynamical Systems.</em>
+    </p>
+
+</div>
+
+<div class="activity">
+
+    <div class="activity-header">
+        <h4>CIMPA School – Various Aspects of Discrete Dynamical Systems</h4>
+        <span class="activity-date">7–18 November 2021</span>
+    </div>
+
+    <p class="location">University of Béjaïa, Algeria</p>
+
+    <p>
+        <strong>Talk:</strong>
+        <em>Morse–Hedlund Theorem: Links Between Sturmian Words and Irrational Translations.</em>
+    </p>
+
+</div>
+<div class="activity">
+
+    <div class="activity-header">
+        <h4>Professional and Communications Training for Scientists (SMR 3710)</h4>
+        <span class="activity-date">23–27 May 2022</span>
+    </div>
+
+    <p class="location">ICTP, Trieste, Italy</p>
+
+</div>
+
+
+<div class="activity">
+
+    <div class="activity-header">
+        <h4>Workshop on Interactions Between Differential Equations and Probability Theory</h4>
+        <span class="activity-date">10–14 October 2021</span>
+    </div>
+
+    <p class="location">University of Béjaïa, Algeria</p>
+
+</div>
+
+
+
+<h3 class="section-title">Research Schools and Training</h3>
+
+<hr class="section-divider">
+
+
+<div class="activity">
+
+    <div class="activity-header">
+        <h4>School and Workshop on Dynamical Systems</h4>
+        <span class="activity-date">25 July – 10 August 2024</span>
+        
+
+    </div>
+
+    <p class="location">ICTP, Trieste, Italy</p>
+         <p> <strong> Poster </strong> </p>
+
+</div>
+
+
+<div class="activity">
+
+    <div class="activity-header">
+        <h4>Thematic Month on Discrete Mathematics and Computer Science</h4>
+        <span class="activity-date">14 February – 1 March 2024</span>
+    </div>
+
+    <p class="location">CIRM, Marseille, France</p>
+    <p> <strong> Poster </strong> </p>
+</div>
+
+
+<div class="activity">
+
+    <div class="activity-header">
+        <h4>Research Visit</h4>
+        <span class="activity-date">3 October – 3 November 2023</span>
+    </div>
+
+    <p class="location">University of Turku, Finland</p>
+
+</div>
+
+
+<div class="activity">
+
+    <div class="activity-header">
+        <h4>Advanced Course on Symbolic Dynamics</h4>
+        <span class="activity-date">May – July 2023</span>
+    </div>
+
+    <p class="location">Online</p>
+
+    <p>
+        <strong>Lecturer:</strong> Pierre Guillon.
+    </p>
+
+</div>
+
+
+<div class="activity">
+
+    <div class="activity-header">
+        <h4>Summer School on Cellular Automata and Their Applications</h4>
+        <span class="activity-date">May – June 2023</span>
+    </div>
+
+    <p class="location">Online, India</p>
+
+</div>
+
+
+
+
+
+
+</section>
+
+
+<footer>
+
+<p>
+© 2026 Nassima AIT SADI
+</p>
+
+</footer>
+
+</body>
+
+</html>
+

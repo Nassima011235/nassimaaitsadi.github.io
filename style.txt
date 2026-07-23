@@ -1,0 +1,388 @@
+/* ===========================
+   GENERAL
+=========================== */
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+html{
+    scroll-behavior:smooth;
+}
+
+body{
+
+    font-family:'Inter',sans-serif;
+    background:#ffffff;
+    color:#222;
+    line-height:1.8;
+
+}
+
+.container{
+
+    width:90%;
+    max-width:1000px;
+    margin:auto;
+
+}
+
+/* ===========================
+   HEADER
+=========================== */
+
+header{
+
+    position:sticky;
+    top:0;
+    background:#fff;
+    border-bottom:1px solid #ddd;
+    z-index:1000;
+
+}
+
+header .container{
+
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding:20px 0;
+
+}
+
+header h1{
+
+    font-size:30px;
+    font-weight:600;
+    color:#111;
+
+}
+
+nav a{
+
+    text-decoration:none;
+    color:#555;
+    margin-left:30px;
+    transition:.3s;
+    font-size:16px;
+
+}
+
+nav a:hover{
+
+    color:#0056b3;
+
+}
+
+/* ===========================
+   ABOUT
+=========================== */
+
+#about{
+
+    padding:80px 0;
+
+}
+
+.about{
+
+    display:flex;
+    justify-content:space-between;
+    align-items:flex-start;
+    gap:60px;
+
+}
+
+.text{
+
+    flex:2;
+
+}
+
+.text h2{
+
+    font-size:34px;
+    margin-bottom:25px;
+    color:#111;
+
+}
+
+.text p{
+
+    margin-bottom:20px;
+    text-align:justify;
+    color:#444;
+
+}
+
+.photo{
+
+    flex:1;
+    text-align:right;
+
+}
+
+.photo img{
+
+    width:280px;
+    border-radius:6px;
+    border:1px solid #ddd;
+
+}
+
+/* ===========================
+   SECTIONS
+=========================== */
+
+section{
+
+    padding:70px 0;
+
+}
+
+section h2{
+
+    font-size:30px;
+    margin-bottom:30px;
+    color:#111;
+    border-bottom:2px solid #ddd;
+    padding-bottom:10px;
+
+}
+
+/* ===========================
+   PUBLICATIONS
+=========================== */
+
+#publications ul{
+
+    list-style:none;
+
+}
+
+#publications li{
+
+    margin-bottom:25px;
+    padding-bottom:20px;
+    border-bottom:1px solid #eee;
+
+}
+
+/* ===========================
+   TEACHING
+=========================== */
+
+#teaching ul{
+
+    list-style:square;
+    padding-left:25px;
+
+}
+
+#teaching li{
+
+    margin-bottom:12px;
+
+}
+
+/* ===========================
+   CONTACT
+=========================== */
+
+#contact p{
+
+    margin-bottom:10px;
+
+}
+
+/* ===========================
+   FOOTER
+=========================== */
+
+footer{
+
+    border-top:1px solid #ddd;
+    text-align:center;
+    padding:30px;
+    margin-top:50px;
+    color:#666;
+
+}
+
+/* ===========================
+   RESPONSIVE
+=========================== */
+
+@media(max-width:850px){
+
+.about{
+
+    flex-direction:column-reverse;
+
+}
+
+.photo{
+
+    text-align:center;
+
+}
+
+.photo img{
+
+    width:220px;
+
+}
+
+header .container{
+
+    flex-direction:column;
+
+}
+
+nav{
+
+    margin-top:20px;
+
+}
+
+nav a{
+
+    margin:0 10px;
+
+}
+
+}
+
+@media(max-width:600px){
+
+header h1{
+
+    font-size:24px;
+
+}
+
+section h2{
+
+    font-size:24px;
+
+}
+
+.text h2{
+
+    font-size:26px;
+
+}
+
+body{
+
+    font-size:16px;
+
+}
+
+.photo img{
+
+    width:180px;
+
+}
+
+}
+nav a.active{
+    color:#0056b3;
+    font-weight:600;
+}
+
+
+
+/* Contact page */
+
+.page{
+    padding:70px 0;
+}
+
+.contact-box{
+    margin-top:35px;
+    padding:35px;
+    background:white;
+    border-radius:12px;
+    box-shadow:0 3px 12px rgba(0,0,0,.08);
+}
+
+.contact-box p{
+    margin-bottom:25px;
+    line-height:1.8;
+}
+
+.contact-box a{
+    color:#1f5fa8;
+    text-decoration:none;
+}
+
+.contact-box a:hover{
+    text-decoration:underline;
+}
+
+/* Active menu */
+
+nav a.active{
+    color:#1f5fa8;
+    font-weight:600;
+}
+.activity{
+
+padding:28px 0;
+
+border-bottom:1px solid #e6e6e6;
+
+}
+
+.activity-header{
+
+display:flex;
+
+justify-content:space-between;
+
+align-items:baseline;
+
+margin-bottom:8px;
+
+gap:20px;
+
+}
+
+.activity-header h4{
+
+margin:0;
+
+font-size:1.25rem;
+
+color:#1f5fa8;
+
+}
+
+.activity-date{
+
+color:#777;
+
+font-size:.95rem;
+
+white-space:nowrap;
+
+}
+
+.location{
+
+font-style:italic;
+
+color:#666;
+
+margin-bottom:10px;
+
+}
+
+.activity p{
+
+line-height:1.7;
+
+}
