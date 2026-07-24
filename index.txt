@@ -46,7 +46,7 @@ content="Official academic website of Nassima AIT SADI, PhD student in Mathemati
 
 <div class="text">
 
-<h2>About Me</h2>
+<h2>Profile</h2>
 
 <p>
 
